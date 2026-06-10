@@ -7,7 +7,7 @@ Strapi CMS backend for the ISIMM University academic archive system. Manages PDF
 - Strapi CMS content management
 - PDF document storage & retrieval
 - Program and level management
-- Security features: authentication & access control
+- Secure
 - API endpoints for frontend integration
 
 ## 📦 Deployment
